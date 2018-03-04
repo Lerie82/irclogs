@@ -415,3 +415,12 @@
 14:00 < fxbg> https://www.google.com/search?q=sunjester+rfi+lfi+milw0rm
 14:00 < fxbg> lame paper
 14:01 < fxbg> such an embarrassment
+14:05 < fxbg> https://github.com/Lerie82/irclogs/blob/master/cmds
+14:06 < [0xdeadbeef]> Yeah there's not even a mention of include_once(), require(), or require_once() in that paper, or the PHP setting allow_url_include = Off/On which made the difference between an LFI/RFI bug in most cases.
+14:06 -!- Leeky [Leeky@Iluv.catz] has quit [Quit: -Insert punny message here-]
+14:08 < fxbg> meh i didnt seee anyone publishing those kinds of bugs in papers on milw0rm at the time, which is probably why str0ke put it up back then
+14:08 < fxbg> people were still blind injecting by hand back then 
+14:09 < fxbg> trying to remember the name of that tool that pulled blindsql into the mainstream
+14:12 < fxbg> meh
+14:13 < fxbg> published 12 years ago
+14:13 < fxbg> lol
