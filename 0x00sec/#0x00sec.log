@@ -338,3 +338,8 @@
 14:28 < [0xdeadbeef]> Evalz0r: eval: exit();
 14:28 < Evalz0r> [0xdeadbeef]: No output.
 14:28 < [0xdeadbeef]> xD
+14:30 < fxbg> Evalz0r: eval dump(yo_momma())
+14:30 < Evalz0r> fxbg: ERROR: Undefined subroutine &main::yo_momma called at (IRC) line 1. 
+14:36 -!- Mutex7 [Mutex7@A210470F.F49C61E5.37F61D13.IP] has joined #0x00sec
+14:45 -!- zh0kx [zh0kx@88B39520.8746543C.95492600.IP] has quit [Quit: My MacBook has gone to sleep. ZZZzzz...]
+14:45 -!- zh0kx [zh0kx@88B39520.8746543C.95492600.IP] has joined #0x00sec
