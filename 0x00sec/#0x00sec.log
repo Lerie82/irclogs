@@ -1,0 +1,315 @@
+--- Log opened Sat Mar 03 22:09:43 2018
+22:09 -!- fxbg [fxbg@BB726BD3.BA8C7D26.2F258E.IP] has joined #0x00sec
+22:09 -!- Irssi: #0x00sec: Total of 24 nicks [1 ops, 0 halfops, 0 voices, 23 normal]
+22:09 -!- Irssi: Join to #0x00sec was synced in 2 secs
+22:19 < Kowalski> Evalz0r: oaktree
+22:19 < Evalz0r> Kowalski: 0x00sec's lil pupper
+22:21 < fxbg> Evalz0r: fxbg
+22:21 < Evalz0r> fxbg: No factoid found. Did you mean one of these: [.bg] [.fx] [.vg] [f2c] [faq] [fiik] [fuck] [hhfg] [fcgi] [fgj]
+22:27 -!- Himac [Himac@B0AF6A42.B6CD948A.D1CF14D4.IP] has quit [Quit: WeeChat 2.0.1]
+22:27 < fxbg> https://www.theverge.com/2018/3/2/17071308/callifornia-highway-patrol-decoy-shuttles-apple-google-bus-shooter
+22:28  * fxbg points & laughs
+22:28 < fxbg> they already have a vehicle description, placing chp's on the bus and still offering a $10k reward?
+22:28 < fxbg> idiots.
+22:38 -!- x0rz [x0rz@34B0578D.67CC4D2F.FA8B6CA6.IP] has quit [Ping timeout: 180 seconds]
+22:38 -!- nsk_nyc [nsk_nyc@279F00C7.7CDD5F5C.1512558D.IP] has quit [Quit: I has gone to sleep. ZZZzzz...]
+--- Log closed Sat Mar 03 23:10:51 2018
+--- Log opened Sat Mar 03 23:14:07 2018
+23:14 -!- fxbg [fxbg@91E9CCE9.39A08973.7177112.IP] has joined #0x00sec
+23:14 -!- Irssi: #0x00sec: Total of 21 nicks [1 ops, 0 halfops, 0 voices, 20 normal]
+23:14 -!- Irssi: Join to #0x00sec was synced in 1 secs
+23:29 -!- Mutex7 [Mutex7@A210470F.F49C61E5.37F61D13.IP] has quit [Read error]
+--- Day changed Sun Mar 04 2018
+00:21 < desu> @users
+00:21 < pine> 0x00sec has 2953 users.
+00:24 -!- Shazzberry [Shazzberry@ACFBAA0F.D9E1F8E1.5EDD5852.IP] has quit [Read error]
+00:32 -!- Kage [d9835499@34028E8E.AE88D910.68B2D6A3.IP] has joined #0x00sec
+00:32 < Kage> hey folks
+00:36 < desu> sup
+00:44 < Kage> nothing much, looks like they got rid of many users :)
+00:47 < desu> Yeah fraq did some cleaning
+00:47 < Kage> this is better
+00:48 < Kage> but I had trouble with logining for days till I saw the warning saying that I should be a registered user
+00:48 < desu> Had an issue with spammers so temporary measures were taken
+00:49 < Kage> I see, it is better to get rid of unnecessary users
+00:51  * fxbg agrees
+00:55 < Kage> what are you guys up to these days?
+00:55 < desu> Learning networking stuff
+00:55 < Kage> hmm, I should also learn about networking sometime
+00:56 < Kage> any resources you'd recommend
+00:57 < desu> Uh, right now I'm just absorbing on YouTube
+00:58 < desu> and for some basic technical implementations, pico has written some nice threads on the forum
+01:09 -!- chuckles [m0rph@50416DEC.B587AB67.560F600A.IP] has joined #0x00sec
+01:12 -!- Himac [Himac@614C0767.8C660CB1.5C572C61.IP] has joined #0x00sec
+01:19 -!- Himac [Himac@614C0767.8C660CB1.5C572C61.IP] has quit [Quit: WeeChat 2.0.1]
+01:25 -!- chuckles [m0rph@50416DEC.B587AB67.560F600A.IP] has quit [Ping timeout: 180 seconds]
+01:33 -!- Kage [d9835499@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
+01:34 < Kowalski> Evalz0r:oaktree
+01:34 < Evalz0r> Kowalski: 0x00sec's lil pupper
+01:50 -!- Kage [d9835499@34028E8E.AE88D910.68B2D6A3.IP] has joined #0x00sec
+02:09 -!- Kage [d9835499@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
+02:44 < desu> Evalz0r: pine
+02:44 < Evalz0r> desu: the best IRC bot. Made in a real man's language (c++)
+02:45 < desu> Evalz0r: Evalz0r 
+02:45 < Evalz0r> desu: "About to be deprecated :D"
+02:45 < desu> Evalz0r: fraq
+02:45 < Evalz0r> desu: No factoid found. Did you mean one of these: [faq] [foaf] [foad] [brad] [rat] [saq] [fork] [.fr] [fire] [furry]
+02:55 < desu> Evalz0r: furry
+02:55 < Evalz0r> desu: NO U, also http://xkcd.com/471/
+02:57 < desu> Evalz0r: fire
+02:57 < Evalz0r> desu: "give a man a fire, he's warm for an hour.  Set a man on fire, he's warm for the rest of his life."
+02:57 < desu> Evalz0r: brad
+02:57 < Evalz0r> desu: [14:20] <Brad> how do I give head?
+02:57 < desu> Evalz0r: saq
+02:57 < Evalz0r> desu: http://ginini.com/perlsaq.html
+03:02 < Kowalski> Evalz0r: ur mom
+03:02 < Evalz0r> Kowalski: http://xkcd.com/366/
+03:14 < desu> Evalz0r: foaf
+03:14 < Evalz0r> desu: usenet-speak for friend of a friend
+03:20 < desu> Evalz0r: rat
+03:20 < Evalz0r> desu: is no rat, is hamster
+03:20 < desu> Evalz0r: fork
+03:20 < Evalz0r> desu: http://web.eecs.utk.edu/~huangj/cs360/360/notes/Fork/lecture.html http://www-h.eng.cam.ac.uk/help/tpl/unix/fork.html http://en.wikipedia.org/wiki/Fork-exec
+03:33 < fxbg> Evalz0r: fxbg
+03:33 < Evalz0r> fxbg: No factoid found. Did you mean one of these: [.bg] [.fx] [.vg] [f2c] [faq] [fiik] [fuck] [hhfg] [fcgi] [fgj]
+03:33 < fxbg> bastard.
+03:40 -!- py [opsec@82D2CBEB.C7BE9EC6.2CEC3F83.IP] has joined #0x00sec
+03:50 -!- py [opsec@82D2CBEB.C7BE9EC6.2CEC3F83.IP] has quit [Quit: WeeChat 1.4]
+03:53 -!- b00mbadab00m [a.fagget@the.wrong.place] has joined #0x00sec
+03:54 < b00mbadab00m> Hello.
+03:57 -!- suser [groot@netadmin.0x00sec.org] has quit [Ping timeout: 180 seconds]
+04:14 -!- nsk_nyc [nsk_nyc@279F00C7.7CDD5F5C.1512558D.IP] has joined #0x00sec
+05:07 < fxbg> another 6 hours left at work, 11 shifts killlll
+05:07 < fxbg> 11hr.
+05:10 < nugget> Evalz0r, eval: use warnings; use strict; my @blah = qw(a b c); my $list = map { $_ => 1 } @blah; "$list"
+05:10 < Evalz0r> nugget: 6
+05:10 < nugget> Evalz0r, eval: use warnings; use strict; my @blah = qw(a b c); my $list = map { $_ => 1 } @blah; keys %$list
+05:10 < Evalz0r> nugget: ERROR: Can't use string ("6") as a HASH ref while "strict refs" in use at (IRC) line 1. 
+05:10 < nugget> mhm
+05:19 < desu> Evalz0r: nugget 
+05:19 < Evalz0r> desu: Officially backing away from perl 5 Septmeber 1st 2018
+06:01 -!- Crimi [530b63bb@34028E8E.AE88D910.68B2D6A3.IP] has joined #0x00sec
+06:01 < Crimi> Hi all
+06:06 -!- Crimi [530b63bb@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
+06:07 < nugget> Evalz0r, eval: use warnings; use strict; my @blah = qw(a b c); unshift @blah,"z"; "@blah"
+06:07 < Evalz0r> nugget: z a b c
+06:17 < desu> @urban pull
+06:17 < pine> Word used to describe the successful act of attracting a person to such an extent that you would be able to [snog] or perhaps [bone] them if you so desired. [*] Ex. "With the help of my lucky [Y-fronts] I should pull tonight."... https://www.urbandictionary.com/define.php?term=pull
+--- Log closed Sun Mar 04 07:24:57 2018
+--- Log opened Sun Mar 04 07:25:19 2018
+07:25 -!- fxbg [fxbg@91E9CCE9.39A08973.7177112.IP] has joined #0x00sec
+07:25 -!- Irssi: #0x00sec: Total of 19 nicks [1 ops, 0 halfops, 0 voices, 18 normal]
+07:25 -!- Irssi: Join to #0x00sec was synced in 7 secs
+07:27 < fxbg> first time doing the continental breakfast here. fucking waffle mix and eggs everywhere.
+07:45 -!- Shazzberry [Shazzberry@ACFBAA0F.D9E1F8E1.5EDD5852.IP] has joined #0x00sec
+07:55 -!- oaktree [oaktree@oaktree.forest.0x00sec.org] has joined #0x00sec
+07:55 -!- mode/#0x00sec [+q oaktree] by ChanServ
+08:33 -!- oaktree [oaktree@oaktree.forest.0x00sec.org] has quit [Quit: leaving]
+08:36 -!- suser [groot@netadmin.0x00sec.org] has joined #0x00sec
+08:50 -!- Sk0xic [Sk0xic@A0BE0A6.B872B10C.2000AA39.IP] has joined #0x00sec
+--- Log closed Sun Mar 04 09:25:42 2018
+--- Log opened Sun Mar 04 09:25:55 2018
+09:25 -!- fxbg [fxbg@ABA32628.BFCD31D4.CAF0FE9B.IP] has joined #0x00sec
+09:25 -!- Irssi: #0x00sec: Total of 23 nicks [1 ops, 0 halfops, 0 voices, 22 normal]
+09:26 -!- Irssi: Join to #0x00sec was synced in 19 secs
+09:39 < [0xdeadbeef]> No ops :D RELEASE THE FFY00 
+09:43 < FFY00> what?
+09:44 < FFY00> I can't be released
+09:44 < FFY00> suser is watching
+09:44 -!- egy [egy@2EB262AC.1B9491AA.C98FE7B9.IP] has joined #0x00sec
+09:44 < FFY00> hey egy
+09:45 < FFY00> :(
+09:46 < FFY00> man this server is littt
+09:47 -!- egy [egy@2EB262AC.1B9491AA.C98FE7B9.IP] has quit [Ping timeout: 180 seconds]
+09:49 -!- egy [egy@B663C8FE.C85563A1.85F5D832.IP] has joined #0x00sec
+10:01 < [0xdeadbeef]> Yeah
+10:01 < [0xdeadbeef]> Litt as in lewis litt
+10:01 < [0xdeadbeef]> xD
+10:23 -!- FFY00 [FFY00@mescaline.genesis] has quit [Read error]
+10:24 < fxbg> https://en.wikipedia.org/wiki/Vacuum_deposition
+10:27 -!- FFY00 [FFY00@mescaline.genesis] has joined #0x00sec
+10:28 < egy> hey FFY00! How's DSP ? :)
+10:28 < egy> sorry I couldn't see it earlier
+10:29 < FFY00> hey
+10:30 < FFY00> needed to take some time
+10:30 < FFY00> and focus on school
+10:30 < egy> ah yeah I remember the math things and the school teacher
+10:30 < egy> kinda
+10:30 < FFY00> yeah
+10:31 < FFY00> it's ridiculous, we can't use the l'hospital rule
+10:31 < egy> I was actually very surprised the first time you were asking about DSP, since the materials are actually uni-level and beyond
+10:31 < egy> oh really ? whoa!
+10:31 < egy> wth
+10:32 < egy> so does (s)he have another way to deal with the differentiation problem ?
+10:32 < egy> maybe (s)he has other insights or rules I am not aware of
+10:33 < egy> afk
+10:33 < FFY00> what differentiation problem?
+10:33 < FFY00> I'm not a native english speaker, we have different names
+10:35 -!- FFY002 [FFY00@mescaline.genesis] has joined #0x00sec
+10:35 < FFY002> my computer isn't cooperating
+10:36 -!- egy [egy@B663C8FE.C85563A1.85F5D832.IP] has quit [Ping timeout: 180 seconds]
+10:36 -!- FFY00 [FFY00@mescaline.genesis] has quit [Ping timeout: 180 seconds]
+10:38 -!- FFY002 [FFY00@mescaline.genesis] has quit [Quit: dd if=/dev/random of=/dev/sda]
+10:38 -!- FFY00 [FFY00@mescaline.genesis] has joined #0x00sec
+10:39 < fxbg> Evalz0r: x=3/5
+10:39 < nugget> Evalz0r: eval 3/5
+10:39 < Evalz0r> nugget: 0.6
+10:40 < fxbg> Evalz0r: eval 3(b)/3
+10:40 < Evalz0r> fxbg: ERROR: syntax error at (IRC) line 1, near "3(" 
+10:40 -!- FFY00 [FFY00@mescaline.genesis] has quit [Read error]
+10:40 -!- FFY00 [FFY00@mescaline.genesis] has joined #0x00sec
+10:40 < nugget> Evalz0r, rbeval: puts 3(b)/3
+10:40 < Evalz0r> nugget: /tmp/xVdkXvU1me:1: syntax error, unexpected '(', expecting end-of-input puts 3(b)/3        ^ [Exited 1]
+10:40 < nugget> nope
+10:41 < fxbg> hmm
+10:41 < fxbg> 3(b)/3 = 1byte says the googles
+10:42 < nugget> what is 'b' meant to be
+10:42 < nugget> 3/3 = 1?
+10:42 < fxbg> idk
+10:42 < nugget> (0_o) ok
+10:43 < fxbg> saw it on some impossible math thing somewhere
+10:43 < fxbg> my maths < kindergarten
+10:43 < fxbg> lol
+10:44 < nugget> :)
+10:44  * fxbg counts his crayons
+10:44 < b00mbadab00m> Hello.
+10:44 -!- You're now known as fxbg|away
+11:04 -!- egy [egy@B663C8FE.C85563A1.85F5D832.IP] has joined #0x00sec
+11:11 -!- b00mbadab00m [a.fagget@the.wrong.place] has quit [Quit: b00mbadab00m]
+11:18 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has joined #0x00sec
+11:35 -!- FFY00_ [FFY00@mescaline.genesis] has joined #0x00sec
+11:35 -!- FFY00_ [FFY00@mescaline.genesis] has quit [Read error]
+11:36 < fxbg|away> Evalz0r: eval 2*3.14*3.1
+11:36 < Evalz0r> fxbg|away: 19.468
+11:36 < fxbg|away> Evalz0r: eval 2*3.14*3.14
+11:36 < Evalz0r> fxbg|away: 19.7192
+11:37 < fxbg|away> Evalz0r: eval 2*3.14/3.14
+11:37 < Evalz0r> fxbg|away: 2
+11:37 < fxbg|away> a ha
+11:37 < fxbg|away> Evalz0r: eval 12*3.14/3.14
+11:37 < Evalz0r> fxbg|away: 12
+11:37 < fxbg|away> maths r dum
+11:38 < fxbg|away> Evalz0r: eval 12*3.14/12
+11:38 < Evalz0r> fxbg|away: 3.14
+11:38 < fxbg|away> Evalz0r: eval 12*3.14*12
+11:38 < Evalz0r> fxbg|away: 452.16
+11:38 < fxbg|away> 12 yards. no way.
+11:39 < fxbg|away> Evalz0r: eval 12*3.14*.12
+11:39 < Evalz0r> fxbg|away: 4.5216
+11:40 -!- Leeky [Leeky@Iluv.catz] has joined #0x00sec
+11:40 < Leeky> hellow
+11:41 < fxbg|away> Evalz0r: eval 8ab+b78
+11:41 < Evalz0r> fxbg|away: ERROR: syntax error at (IRC) line 1, near "8ab" 
+11:41 < fxbg|away> aw no hex
+11:42 < nugget> Evalz0r, eval: hex(10)
+11:42  * fxbg|away goes back to netflickz
+11:42 < Evalz0r> nugget: 16
+11:42 < nugget> Evalz0r, eval: hex("a")
+11:42 < Evalz0r> nugget: 10
+11:42 < fxbg|away> Evalz0r: eval hex(8ab)+hex(b78)
+11:42 < Evalz0r> fxbg|away: ERROR: syntax error at (IRC) line 1, near "8ab" 
+11:42 < nugget> really
+11:42 < nugget> Evalz0r: eval hex('8ab')+hex('b78')
+11:42 < Evalz0r> nugget: 5155
+11:43 < fxbg|away> hmm
+11:43 < fxbg|away> Evalz0r: eval hex(5155)
+11:43 < Evalz0r> fxbg|away: 20821
+11:43 < nugget> Evalz0r: eval sprintf('%x',hex('8ab')+hex('b78'))
+11:43 < Evalz0r> nugget: 1423
+11:43 < nugget> Evalz0r: eval sprintf('%p',hex('8ab')+hex('b78'))
+11:43 < Evalz0r> nugget: 41d03e8
+11:43 < fxbg|away> ooo
+11:44 < fxbg|away> Evalz0r: eval sprintf('%d',hex('8ab')+hex('b78'))
+11:44 < Evalz0r> fxbg|away: 5155
+11:44 < fxbg|away> damnit
+11:44 < fxbg|away> math always proves me stupidz
+11:46 < fxbg|away> fuck maths
+11:47 < nugget> :)
+11:48 < fxbg|away> @wiki ?
+11:48 < pine> The question mark [ ? ] (also known as interrogation point, query, or eroteme in journalism) is a punctuation mark that indicates an interrogative clause or phrase in many languages. The question mark is not used for indirect questions. The question mark glyph is also often used in place of missing or unknown data. In Unicod... https://en.wikipedia.org/wiki/Question%20mark
+11:48 < fxbg|away> @wiki acid bath murders
+11:48 < pine> https://en.wikipedia.org/w/index.php?search=acid%20bath%20murders
+11:49 < fxbg|away> @wiki acid bath murderer
+11:49 < pine> John George Haigh (24 July 1909 - 10 August 1949), commonly known as the Acid Bath Murderer, was an English serial killer. He was convicted for the murder of six people, although he claimed to have killed nine. He battered or shot his victims to death and used concentrated sulphuric acid to destroy their corpses befo... https://en.wikipedia.org/wiki/John%20George%20Haigh
+11:49 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has quit [Quit: I has gone to sleep. ZZZzzz...]
+11:50 < fxbg|away> @wiki blackout ripper
+11:50 < pine> Gordon Frederick Cummins (18 February 1914 - 25 June 1942) was a British spree killer, convicted for the murder of one woman in London and charged with the murders of three more. The murders took place over a six-day period in February 1942, during the Second World War. Cummins, a Royal Air Force serviceman during the Sec... https://en.wikipedia.org/wiki/Gordon%20Cummins
+11:50 < fxbg|away> mwhahaa
+11:50  * fxbg|away leaves now
+11:55 -!- oaktree [oaktree@oaktree.forest.0x00sec.org] has joined #0x00sec
+11:55 -!- mode/#0x00sec [+q oaktree] by ChanServ
+11:55 <~oaktree> henlo.
+11:55 -!- mode/#0x00sec [+o pine] by oaktree
+11:55 <~oaktree> suser: how ya do
+11:55 < suser> i hurt fuck you
+11:55 < suser> also where did fraq and pry go
+11:56 < FFY00> hey oaktree
+11:56 < FFY00> pine is back
+11:59 < nugget> suser, fraq is online but not in channel
+12:01 < suser> k
+12:02 < nugget> ah he in #public
+12:02 < nugget> knew I spotted him somewhere
+12:06 < Kowalski> all bow before our benevolent dictator pine
+12:07 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has joined #0x00sec
+12:25 -!- You're now known as fxbg
+12:25 < [0xdeadbeef]> Evalz0r: eval: eval(eval(eval(0/0))) 
+12:25 < Evalz0r> [0xdeadbeef]: ERROR: Illegal division by zero at (IRC) line 1. 
+12:27 <~oaktree> Evalz0r: eval 1 % 0
+12:27 < Evalz0r> oaktree: ERROR: Illegal modulus zero at (IRC) line 1. 
+12:28 <~oaktree> Evalz0r: eval 1 % 1; 1 % 1-1
+12:28 < Evalz0r> oaktree: -1
+12:28 <~oaktree> Evalz0r: eval 1 % 1; 1 % (1-1)
+12:28 < Evalz0r> oaktree: ERROR: Illegal modulus zero at (IRC) line 1. 
+12:28 <~oaktree> Evalz0r: eval 1 % 1 % 1 % (1%1)
+12:28 < Evalz0r> oaktree: ERROR: Illegal modulus zero at (IRC) line 1. 
+12:28 <~oaktree> Evalz0r: rbeval puts 10**100000000
+12:28 < Evalz0r> oaktree: /tmp/_zhSZop3cG:1: warning: in a**b, b may be too big Infinity 
+12:29 <~oaktree> kek
+12:30 < Kowalski> how do you put multiple lines on the same line in ruby
+12:30 < Kowalski> anything like ;
+12:30 <~oaktree> ;
+12:30 < Kowalski> Evalz0r: require 'socket'; Socket::getaddrinfo(Socket.gethostname,"echo",Socket::AF_INET)[0][3]
+12:31 < Kowalski> oops rbeval
+12:31 < Kowalski> Evalz0r: rbeval require 'socket'; Socket::getaddrinfo(Socket.gethostname,"echo",Socket::AF_INET)[0][3]
+12:31 < Kowalski> common quick
+12:31 < Evalz0r> Kowalski: timeout at /home/perlbot/perl5/lib/perl5/App/EvalServerAdvanced.pm line 118. 
+12:31 <~oaktree> puts
+12:31 < Kowalski> ;-;
+12:31 < Kowalski> aww nugget have perlbot its own home directory
+12:31 < Kowalski> gave*
+12:31 <~oaktree> Evalz0r: rbeval `curl pornhub.com`
+12:32 <~oaktree> Evalz0r: rbeval puts `curl pornhub.com`
+12:32 < Evalz0r> oaktree: timeout at /home/perlbot/perl5/lib/perl5/App/EvalServerAdvanced.pm line 118. 
+12:32 <~oaktree> lol
+12:32 < Evalz0r> oaktree: timeout at /home/perlbot/perl5/lib/perl5/App/EvalServerAdvanced.pm line 118. 
+12:32 < Kowalski> Evalz0r: rbeval puts `ip route show`[/default.*/][/\d+\.\d+\.\d+\.\d+/]
+12:32 < Evalz0r> Kowalski: timeout at /home/perlbot/perl5/lib/perl5/App/EvalServerAdvanced.pm line 118. 
+12:34 < Kowalski> Evalz0r: eval use warning; use strict; while( ){ fork(); }
+12:34 < Evalz0r> Kowalski: ERROR: Can't locate warning.pm in @INC (you may need to install the warning module) (@INC contains: /home/perlbot/perl5/lib/perl5//5.24.3/x86_64-linux /home/perlbot/perl5/lib/perl5//5.24.3 /home/perlbot/perl5/lib/perl5//5.24.2/x86_64-linux /home/perlbot/perl5/lib/perl5//5.24.2 /home/perlbot/perl5/lib/perl5//5.24.1/x86_64-linux /home/perlbot/perl5/l... [Output truncated. https://perl.bot/p/ugadwl ]
+12:35 < Kowalski> Evalz0r: eval while( ){ fork(); }
+12:35 < Evalz0r> Kowalski: [Died SIGSYS (Illegal Syscall)]
+12:36 < Kowalski> Evalz0r: eval while( ){ system("uname -a"); }
+12:36 < Evalz0r> Kowalski: [Died SIGSYS (Illegal Syscall)]
+12:36 < Kowalski> everything be illegal
+12:36 <~oaktree> we need a wall
+12:37 < Kowalski> what for
+12:41 <~oaktree> the illegals
+12:42 <~oaktree> the illegal syscalls, specifically.
+12:43 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has quit [Quit: I has gone to sleep. ZZZzzz...]
+12:49 < Kowalski> Evalz0r must he containerised
+12:49 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has joined #0x00sec
+12:49 < Kowalski> be*
+12:53 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has quit [Quit: I has gone to sleep. ZZZzzz...]
+13:00 -!- Phoenix750 [lfm@Phoenix.750] has joined #0x00sec
+13:00 < Phoenix750> cool MOTD when joining
+13:00 < Phoenix750> so what did i miss?
+13:00 < Kowalski> lul
+13:00 < Phoenix750> kys
+13:05 <~oaktree> hi Phoenix750 
+13:14 <~oaktree> java is fucking garbage
+13:16 -!- chuckles [m0rph@50416DEC.B587AB67.560F600A.IP] has joined #0x00sec
+13:20 -!- You're now known as fxbg|mustsleepz
+13:22 < Leeky> oaktree: dude just because you repeat the truth it doesn't make it more true
+13:22 <~oaktree> true
+13:28 -!- You're now known as fxbg
+13:30 -!- Phoenix750 [lfm@Phoenix.750] has quit [Ping timeout: 180 seconds]

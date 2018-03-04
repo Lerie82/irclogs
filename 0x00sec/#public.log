@@ -1,0 +1,402 @@
+--- Log opened Sat Mar 03 22:09:54 2018
+22:09 -!- fxbg [fxbg@BB726BD3.BA8C7D26.2F258E.IP] has joined #public
+22:09 -!- Irssi: #public: Total of 17 nicks [0 ops, 0 halfops, 0 voices, 17 normal]
+22:10 -!- Irssi: Join to #public was synced in 10 secs
+22:24 -!- Guest2677 [X@s-3-882E7506] has joined #public
+22:27 -!- Himac [Himac@B0AF6A42.B6CD948A.D1CF14D4.IP] has quit [Quit: WeeChat 2.0.1]
+22:38 -!- nsk_nyc [nsk_nyc@279F00C7.7CDD5F5C.1512558D.IP] has quit [Quit: I has gone to sleep. ZZZzzz...]
+--- Log closed Sat Mar 03 23:10:51 2018
+--- Log opened Sat Mar 03 23:14:15 2018
+23:14 -!- fxbg [fxbg@91E9CCE9.39A08973.7177112.IP] has joined #public
+23:14 -!- Irssi: #public: Total of 15 nicks [0 ops, 0 halfops, 0 voices, 15 normal]
+23:14 -!- Irssi: Join to #public was synced in 3 secs
+23:29 -!- Mutex7 [Mutex7@A210470F.F49C61E5.37F61D13.IP] has quit [Read error]
+--- Day changed Sun Mar 04 2018
+01:12 -!- Himac [Himac@614C0767.8C660CB1.5C572C61.IP] has joined #public
+01:19 -!- Himac [Himac@614C0767.8C660CB1.5C572C61.IP] has quit [Quit: WeeChat 2.0.1]
+03:53 -!- b00mbadab00m [a.fagget@6274A67B.5E0747A2.4D2B2947.IP] has joined #public
+04:14 -!- nsk_nyc [nsk_nyc@279F00C7.7CDD5F5C.1512558D.IP] has joined #public
+--- Log closed Sun Mar 04 07:24:57 2018
+--- Log opened Sun Mar 04 07:24:59 2018
+07:24 -!- fxbg [fxbg@91E9CCE9.39A08973.7177112.IP] has joined #public
+07:24 -!- Irssi: #public: Total of 15 nicks [0 ops, 0 halfops, 0 voices, 15 normal]
+07:25 -!- Irssi: Join to #public was synced in 17 secs
+07:42 -!- nuller [d598a155@34028E8E.AE88D910.68B2D6A3.IP] has joined #public
+07:44 -!- nuller [d598a155@34028E8E.AE88D910.68B2D6A3.IP] has left #public []
+--- Log closed Sun Mar 04 09:25:42 2018
+--- Log opened Sun Mar 04 09:25:43 2018
+09:25 -!- fxbg [fxbg@ABA32628.BFCD31D4.CAF0FE9B.IP] has joined #public
+09:25 -!- Irssi: #public: Total of 16 nicks [0 ops, 0 halfops, 0 voices, 16 normal]
+09:26 -!- Irssi: Join to #public was synced in 25 secs
+10:23 -!- FFY00 [FFY00@mescaline.genesis] has quit [Read error]
+10:27 -!- FFY00 [FFY00@mescaline.genesis] has joined #public
+10:36 -!- FFY00 [FFY00@mescaline.genesis] has quit [Ping timeout: 180 seconds]
+10:38 -!- FFY00 [FFY00@mescaline.genesis] has joined #public
+10:40 -!- FFY00 [FFY00@mescaline.genesis] has quit [Read error]
+10:40 -!- FFY00 [FFY00@mescaline.genesis] has joined #public
+10:44 -!- You're now known as fxbg|away
+11:11 -!- b00mbadab00m [a.fagget@the.wrong.place] has quit [Quit: b00mbadab00m]
+11:18 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has joined #public
+11:26 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has joined #public
+11:35 -!- FFY00_ [FFY00@mescaline.genesis] has joined #public
+11:35 -!- FFY00_ [FFY00@mescaline.genesis] has quit [Read error]
+11:40 -!- Leeky [Leeky@Iluv.catz] has joined #public
+11:40 < PaperSkin> Noooooo
+11:42 < PaperSkin> Leeky are you gonna continue your Operating system series??
+11:43 < Leeky> yes I'm
+11:43 < Leeky> but busy with final exams 'n stuff
+11:43 < PaperSkin> Yes! thought you forgot about ti for a minute
+11:43 < Leeky> yeah it looks that way doesn't it?
+11:44 < Leeky> it's just that it takes some time, expecially as I want to include good references for further reading
+11:45 < PaperSkin> oh, how big of a task is creating the operating system?
+11:47 < Leeky> not too much, I would guess I would only need ~10h to finish it (w/ documenting it or writing on the post)
+11:48 < Leeky> that's half a week end for me, but currently those are occupied with learning for school, reading into new stuff and working on random shit
+11:48 < PaperSkin> Lol, I wouldn't think you need it to be honest you seem very intelligent, should be a breeze
+11:48 < Leeky> spring break is when I planned to work on the OS
+11:49 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has quit [Quit: I has gone to sleep. ZZZzzz...]
+11:49 < Leeky> physics tho~ need a viable grade~ so much to learn~
+11:52 < Leeky> not to mention that I have to finish the most retarded project I've ever started, Crosscompiling Java Bytecode to x86. [Including writing the whole tooline from parsing class files, translating them, assembling the x86 and then linking/creating PE files out it myself]
+11:53 < Leeky> soo close to being done with that beyond PoC
+11:54 < PaperSkin> Also I have a question, how come you chose real mode and not something like protected mode, isn't real mode old?
+11:54 < Leeky> well
+11:54 < Leeky> realmode is where cpus start in
+11:55 < Leeky> almost every x86 cpi
+11:55 < Leeky> *cpu
+11:56 < Leeky> so realmode code execution is the first thing the CPU does until switching to protected mode, why should I start learning/researching the 2nd thing if I can start from the beginning?
+11:56 < PaperSkin> Oh i see
+11:56 < Leeky> [Excluding UEFI magix here, I'm trying to pretend it doesn't exist]
+11:59 < Leeky> PaperSkin: as a matter of fact the PoC of my JVM Bytecode -> x86  assembler was meant to target realmode execution and made it possible to write a realmode in Java :P (sorry too proud of it, although I'm aware that it's 100% useless)
+12:00 < Leeky> *realmode OS
+12:01 < PaperSkin> Wait so your gonna write a program to change java byte code to x86 eliminating the ened for you to use assembly??
+12:02 < PaperSkin> Omg that sounds cool, I wanna see that.
+12:02 < Leeky> I already have that in a PoC level, PoC didn't support OOP though, rewritten version does :P
+12:02 < Leeky> gimme 15 minutes and I can finnaly put the time in to put it on github
+12:02 < Leeky> *putting
+12:02 < FFY00> Leeky if you need help
+12:02 < FFY00> I have worked with bytecode
+12:03 < fxbg|away> big
+12:03 < PaperSkin> Why not something procedural like c then?
+12:03 < Leeky> FFY00: my class parser works perfect already sorry .D
+12:03 < FFY00> np
+12:03 < FFY00> :)
+12:03 < fxbg|away> byte order in java?
+12:03 < FFY00> just saying
+12:04 < Leeky> PaperSkin: because I want to make it standalone, and I'm not going to write a C compiler
+12:04 < Leeky> byte order? most of it works by indexing a constant pool
+12:04 < fxbg|away> thought we were talking endianness nvm
+12:04 < fxbg|away> beer > thought
+12:05 < Leeky> .D
+12:07 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has joined #public
+12:08 < fxbg|away> wait, why java... nvm
+12:08 < Leeky> because why not :P
+12:08 < PaperSkin> You make all of it sound so easy, How long did it take you to learn all of this?
+12:08 < fxbg|away> to x86?
+12:08 < fxbg|away> why
+12:08 < Leeky> PaperSkin: learning while doing
+12:09 < fxbg|away> wouldnt you do that from the other end?
+12:09 < PaperSkin> oh makes sense!
+12:10 < PaperSkin> so when you continue your series your gonna use java from now on?
+12:11 < Leeky> lol no
+12:11 < Leeky> as if anyone would like to see that
+12:12 < Leeky> but that sounds like something I have to remember for the 1st April
+12:12 < fxbg|away> i write java on toilet paper, then jswing it into you know where.
+12:13 < PaperSkin> your ass to wipe after you..?
+12:13 < fxbg|away> yes, i wipe my ass with it.
+12:14 < Leeky> isn't that the intented porpouse of it?
+12:14 < nugget> Leeky, I would like to see it
+12:14 < nugget> been a while since I had a good laugh
+12:14 < Leeky> gimme time to write a proper readmee
+12:15 < nugget> what is this video series anyhow
+12:15 < nugget> some sort of basics of programming or something
+12:15 < Leeky> video series?
+12:15 < Leeky> realmode series you mean?
+12:15 < nugget> I presumed it was video series you was foing
+12:15 < nugget> doing*
+12:15 < fxbg|away> ahhh shit dont get me starts.
+12:15 < Leeky> nugget: do you even read stuff on the forumz?
+12:15 < nugget> Leeky, rarely
+12:15 < fxbg|away> i was wondering too.
+12:15 < nugget> Leeky, I really just use it for blogging to py
+12:15 < fxbg|away> was sure in was up to date.
+12:15 < PaperSkin> Tbh threads rarelypop up
+12:15 < PaperSkin> on the forum
+12:16 < Leeky> nugget: ah, it's a "walkthrough" of writing realmode assembly
+12:16 < Leeky> BIOS stuff and things
+12:16 < nugget> ah
+12:16 < nugget> you should video'ize it 
+12:16 < fxbg|away> yikes
+12:16 < Leeky> hell no
+12:17 < fxbg|away> i c now
+12:17 < fxbg|away> https://0x00sec.org/search?q=realmode
+12:17 < FFY00> anyone knows good resources on search engine algorithms?
+12:17 < FFY00> I was thinking about implementing a se in go
+12:17 < fxbg|away> go?!
+12:17 < FFY00> yes
+12:18 < fxbg|away> bah
+12:18 < FFY00> why?
+12:18 < PaperSkin> go as in the programming language, lmao i only found otu about it becuse i was trying to type google into my address bar and though it would autocomplete so i was left with go
+12:18  * fxbg|away checks for your hipster stache
+12:19 < PaperSkin> Wouldnt a search engine algorithim just be a long ass loop
+12:19 < PaperSkin> ?
+12:19 < FFY00> no
+12:20 < PaperSkin> oh lol
+12:20 < FFY00> I need to select the information to store
+12:20 < FFY00> I'm not gonna store all the text lol
+12:21 < Leeky> aarrg
+12:21 < Leeky> hmm
+12:21 < FFY00> Leeky?
+12:21 < PaperSkin> Lmao I thought he was gonna say something too
+12:21 < PaperSkin> relating to your problem
+12:22 < PaperSkin> O crap my windows is about to update
+12:22 < Leeky> there is more to cleanup than expected, is a .java and the resulting .asm enough as a PoC
+12:23 < FFY00> if they work
+12:23 < Leeky> [not to mention that I just realised that linking my github here would make doxing a one additional search thing]
+12:24 < PaperSkin> ...I thought my pc would've cut off by now and the windows update start
+12:24 < FFY00> switch to linux '-'
+12:24 < fxbg|away> 12:20 < FFY00> I need to select the information to store
+12:25 < fxbg|away> exactly
+12:25 < fxbg|away> so what would you store?
+12:25 < PaperSkin> I have a live linux install on a USB but idk im just not a terminal person
+12:25 < Leeky> https://transfer.sh/11jXw9/f0x_example.zip
+12:25 < FFY00> that why I need a algorithm
+12:25 < fxbg|away> negative
+12:25 -!- You're now known as fxbg
+12:25 < Leeky> java source in java folder, asm result in asm folder, additional resources in res
+12:25 < nugget> ok time for sleep and then trains and then work ;/ uggg catch you all soon!
+12:26 < fxbg> cant catch me. 
+12:26 < Leeky> PoC doesn't use a custom class parser/assembler, assembling works over nasm
+12:26 < fxbg> fasmg?
+12:26 < PaperSkin> What did you mean by the cleanup isssues
+12:26 < PaperSkin> ??
+12:27 < [0xdeadbeef]> FFY00: Google serves most of its results from RAM btw 
+12:27 < fxbg> if not all
+12:27 < FFY00> I am not google
+12:27 < [0xdeadbeef]> A Google engineer disclosed that on Quora 
+12:27 < fxbg> but that has nothing to do with what data gets marked important
+12:27 < PaperSkin> They do it from memory/
+12:27 < PaperSkin> ?
+12:27 < Leeky> PaperSkin: my newest version isn't in a working state, my PoC has hardcoded paths for qemu, nasm, depends on external libraries, has folders for x86_16, WIN, ELF/Linux and pure i8068, also temp folders everywhere (and .bat scripts)
+12:28 < Leeky> I could zip it though if you like to download a bunch of shit
+12:28 < [0xdeadbeef]> FFY00: There's a db that's also insanely fast 
+12:28 < [0xdeadbeef]> Can't remember what it's called 
+12:28 < FFY00> mariadb
+12:28 < FFY00> ?
+12:28 < [0xdeadbeef]> No lol 
+12:28 < fxbg> [0xdeadbeef]: its a widelhy known fact, ever done a tour at google?
+12:28 < FFY00> that's the fatest I know
+12:28 < FFY00> *fastest
+12:28 < [0xdeadbeef]> No only been there a few times to have lunch there with friends  
+12:28 < FFY00> omg
+12:29 < [0xdeadbeef]> And an interview once 
+12:29 < fxbg> i did a tour with an ex wife, had a nice little faggy golf cart lol
+12:29  * fxbg would never work for google
+12:29 < fxbg> google
+12:29 < PaperSkin> I thought google was top secret
+12:30 < fxbg> ?
+12:30 < PaperSkin> So spies cant steal things
+12:30 < fxbg> na
+12:30 < fxbg> i worked for sony, those fuckers are secret
+12:30 < fxbg> seriously dudes in trees and shit
+12:31 < fxbg> mountain view is wide open
+12:31 < PaperSkin> Lol, I still remember the 2014 sony hack
+12:31 < [0xdeadbeef]> FFY00: Check out ElasticSearch 
+12:31 < FFY00> I know about elestic search
+12:32 < Leeky> ok fuck this, cleanest version, too lazy to upload to github / write a proper readme, doupt anyone really wants to read through it though
+12:32 < Leeky> https://transfer.sh/h820W/F0xC.zip
+12:32 < fxbg> git push .
+12:32 < fxbg> eh
+12:32 < fxbg> git add .
+12:32 < fxbg> lol
+12:32 < Leeky> 20:23:16] <Leeky> [not to mention that I just realised that linking my github here would make doxing a one additional search thing]
+12:33 < Leeky> >_<
+12:33 < fxbg> doxing again?
+12:33 < fxbg> has the whole planet gone bitch?
+12:33 < PaperSkin> How do people dox u from
+12:33 < PaperSkin> github
+12:33 < PaperSkin> ?
+12:33 < Leeky> connect to my github.io page and do a whois lol
+12:33 < fxbg> so your a leet hax0r?
+12:34 < Leeky> a 1337 hax0r who puts his name out on the open for everyone to see
+12:34  * fxbg doubts it
+12:34  * [0xdeadbeef] does a whois on Leeky, "Wow, former President Obama" xD 
+12:34 < fxbg> lol
+12:36 < [0xdeadbeef]> fxbg: Is HackForums the most "elite" forum you're on?
+12:36 < fxbg> oh god yes
+12:36 < fxbg> rats and crypts and stubz oh my
+12:36 < Leeky> fxbg: ok remove the 1337 hax0r part, just a dude who doesn't really want to link a irc nick to his bank code
+12:36 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
+12:36 < fxbg> meh
+12:37 < fxbg> [0xdeadbeef]: https://www.linkedin.com/in/lerie-taylor-41810748
+12:38 < fxbg> lol
+12:38 < fxbg> not sure what keeping your identify hidden has to do with being "l33t"
+12:40 < Kowalski> Leeky: can i haz ur github
+12:40 < Leeky> lol
+12:40 < FFY00> .github.io doesn't give any information
+12:40 < Leeky> FFY00: I have a domain registered on my name redirected from it
+12:41 < FFY00> me too
+12:41 < FFY00> but I have whoisguard
+12:41 < FFY00> lol
+12:41 < fxbg> ^^^
+12:41 < FFY00> and cloudflare to hide the servers
+12:41 < FFY00> and my name is open
+12:41 < fxbg> still not sure what the big deal is, with a few phone calls im sure someone could get your name, even from whoisguard
+12:41 < FFY00> I'm not trying to hide my identity
+12:41 < fxbg> ANYWAY.
+12:42 < fxbg> why no upload to github and just provided zip?
+12:42 < Kowalski> <FFY00> I'm not trying to hide my identity
+12:42 < Kowalski> and has whoisguard
+12:42 < Leeky> fxbg: I provided a zip file with it 
+12:42 < FFY00> yes
+12:42 < fxbg> but no gh
+12:42 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has joined #public
+12:42 < fxbg> are you ashamed of your gh?
+12:42 < fxbg> lol
+12:42 < Leeky> yes
+12:42 < fxbg> me too
+12:42 < Leeky> sometimes I look at it and laugh at myself
+12:42 < fxbg> lol
+12:43 < PaperSkin> What Is github actually used for?
+12:43 < FFY00> Kowalsi, whois has a lot more information other than my name
+12:43 < fxbg> eh?
+12:43 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has quit [Quit: I has gone to sleep. ZZZzzz...]
+12:43 < fxbg> PaperSkin: seriously?
+12:44 < Kowalski> sometimes i look at the mirror and laugh at it
+12:44 < PaperSkin> ..I always meant to get round to learning about it it kinda slipped my mind lol
+12:44 < fxbg> PaperSkin: source code
+12:44 < Kowalski> PaperSkin: dating
+12:44 < fxbg> lol ^
+12:44 < [0xdeadbeef]> fxbg: You're leerie Taylor? 
+12:44 < fxbg> 1 'e' bro
+12:45 < Kowalski> FFY00: mmm true
+12:45 < PaperSkin> Which is it source code or dating? Dating for programmers?
+12:45 < [0xdeadbeef]> Also fxbg it's "you're" not "your" 
+12:45 < Kowalski> like you pin code
+12:45 < Kowalski> your*
+12:45 < fxbg> oh god "you're" and english nazi too
+12:45 < fxbg> lol
+12:45 < Kowalski> [0xdeadbeef]: nazi
+12:45 < Kowalski> your a grammer nazi
+12:45 < fxbg> is irc really the place for proper engrish
+12:46 < Kowalski> newp
+12:46 < fport> grammar Kowalski 
+12:46 < fport> you're a grammar Nazi
+12:46 < fxbg> [0xdeadbeef]: i think i gave my address last time kiddos started on the whole dox thing
+12:46 < PaperSkin> My configuring windows update has been on 0% for ten minutes...
+12:47 < Kowalski> PaperSkin: it will go back to -100 and uninstall itself
+12:47 < Kowalski> then present you with you a Gentoo boot screen
+12:47 < fxbg> PaperSkin: its just waiting for the dox to go through
+12:47 < Kowalski> which you will then use to compile your base system
+12:47 < PaperSkin> What would happen if I pull the plug mid update lol
+12:47 < fxbg> absolutely nothing.
+12:47 < Kowalski> PaperSkin: nothing
+12:47 < [0xdeadbeef]> fxbg: Yeah as a native speaker you should be able to distinguish between your and you're. Especially if you write reports in relation to hacking. 
+12:48 < Kowalski> you'd be running linux in an hour
+12:48 < fxbg> well good thing irc isnt "reports"
+12:48 < fxbg> lol
+12:48 < [0xdeadbeef]> What's your address though fxbg? XD 
+12:48 < FFY00> hour?
+12:48 < fport> and credit card number?
+12:48 < FFY00> 10mins and it would be installed
+12:48 < [0xdeadbeef]> Desert street 1337? XD 
+12:48  * fxbg doesnt have a cc
+12:48 < fport> some people do not have the hardware to install in ten minutes
+12:48 < fxbg> and my bank is TD bank, and even that isnt real lol
+12:49 < Kowalski> s/hardware/network/
+12:49 < fxbg> i forged my DL to open the account + phone call verofy
+12:49 < fxbg> s/verofy/verify/g
+12:49 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has joined #public
+12:49 < fxbg> and you call yourself leeets
+12:49 < fxbg> worried about bank info? lol
+12:50 < PaperSkin> There could be a FBI agent monitoring this irc
+12:50  * fxbg looks around suspiciously
+12:50 < fxbg> yes, there could.
+12:50 < [0xdeadbeef]> fxbg: What's your problem with maxe and Xires though? 
+12:50 -!- X [X@s-3-882E7506] has joined #public
+12:51 < fxbg> i remeber them when they were nothing.
+12:51 < fxbg> yes. remeber.
+12:51 < X> can we talk about women rights ?
+12:51 < Kowalski> offtopic
+12:51 < fxbg> lol
+12:51 < fxbg> womens has rights nows days?
+12:51 < X> whats up all ?
+12:52 < PaperSkin> Why do you keep wanting to talk about women's rights and link videos to Jim Carey lol
+12:52 < fxbg> lol
+12:52 < X> fxbg according to my resource's yes.
+12:52 < Kowalski> X: the sky
+12:52  * fxbg checks his resources
+12:52 < X> PaperSkin , its a long story, to keep it short : am making friends :P
+12:53 < PaperSkin> Ohhh
+12:53 -!- nsk_nyc [nsk_nyc@4A6F4A9D.BC58176D.B84C7D8B.IP] has quit [Quit: I has gone to sleep. ZZZzzz...]
+12:53 < X> plus am agaisnt who ask for non-equel  rights :P
+12:54 < Kowalski> yeah piss off the naxi
+12:54 < Kowalski> nazi*
+12:54 < X> why asking for women rigths , when there is human rights ?
+12:54 < X> exmp :instanity
+12:55 < PaperSkin> I blame politics
+12:55 < X> she's like a blacl dude , not allowing saying nigger, while they can say white boy
+12:55 < fxbg> human rights? bah
+12:55 < X> i blame new educated people.
+12:56 < X> well , my dog has better rights than me
+12:56 < X> can any one answers why ?
+12:56 < PaperSkin> Omg I get it now you're a woman ?
+12:56 < fxbg> because it has a penis?
+12:56 < fxbg> mwhahaha
+12:56 < X> Paper mowa ?
+12:57 < fxbg> pakistani rat children haz rites two
+12:57 < X> Fxbg , no because they are smart, yet stupid more than humans. in conclution if women are stupid i support women rights :P
+12:57 < fxbg> i doubt humans arent stupid
+12:57 < X> fxbg, currect, they need to have mothers milk
+12:58 < PaperSkin> There is no spoon
+12:58 < X> humans are kind of stupid because ? asking for non-equal rights.
+12:58 < X> X != BOOL
+12:58 < fport> humans are aproduct of their environments
+12:59 < fport> human intelligence sits on a spectrum
+12:59 < X> human can suck my balls
+12:59 < fport> it was only less than a hundred years ago that cousins stopped marryinig and reproducing
+12:59 < X> or play with them
+12:59 < Kowalski> only if you had balls
+12:59 < fxbg> fport: stop reading yc news
+12:59 < PaperSkin> So you're not a woman ??
+12:59 < X> kowalski my balls are mini
+13:00 < fport> young christian?
+13:00 < fxbg> yes.
+13:00 < X> paper i can be what ever you ask me , because you paying hun.
+13:00 < fport> one hole fits all
+13:00 < X> true
+13:00 < fxbg> one all fits hole?
+13:01 < X> if the hole belongs to the kerdasians yes
+13:01 < X> if i have 0.001 black orgins, can i say nigger in public ?
+13:02 < fxbg> yes
+13:02 < PaperSkin> Someone should write malware that locks your computer until you watch all episodes of keeping up with the Kardashian's from beginning to end
+13:02  * fxbg is on it
+13:02 < X> lol
+13:03 < X> or a malware, that unlock's when i understand women rights.
+13:03 < fxbg> https://en.wikipedia.org/wiki/Hush..._Hush,_Sweet_Charlotte
+13:03  * X wishe's to see a black japanese person.
+13:03 < fxbg> plenty out there
+13:03 < X> still small penis's :P
+13:03 < PaperSkin> So Pro women rights or against women rights ?
+13:04 < fxbg> both
+13:04 < X> am against asking for a RIGHT that is more than the other party RIGHTS
+13:04 < fxbg> im against rights recognized by a government
+13:05 < X> for example : a women asks for rights , that is more than mens rights , in the name they dont have right, that in fact they have more.
+13:05 < X> plus am against nugget's rights
+13:07 < X> https://www.youtube.com/watch?v=BAAoaA6J4-c
+13:08 < X> https://www.youtube.com/watch?v=EhF0VR1PFRE
+13:09 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
+13:11 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has joined #public
+13:11 < Leeky> now I actually uploaded it to github
+13:12 < Leeky> anyways
+13:12 < Leeky> *dead*
+13:15 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
+13:17 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has joined #public
+13:20 -!- You're now known as fxbg|mustsleepz
+13:22 < fxbg|mustsleepz> https://en.wikipedia.org/wiki/Fred_West
+13:28 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
+13:28 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has joined #public
+13:28 -!- You're now known as fxbg
+13:28 < fxbg> faaaaack
+13:31 < fxbg> cat .urllog |grep 152019
+13:31 < fxbg> you bitch
+13:31 < fxbg> a ha
+13:31  * fxbg slams the burr
