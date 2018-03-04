@@ -403,3 +403,15 @@
 13:34 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
 13:51 < [0xdeadbeef]> fxbg: I can't find this paper http://www.exploit-db.com/docs/106.pdf anywhere, not even the title
 13:51 < [0xdeadbeef]> Do you have a copy?
+13:57 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has joined #public
+13:58 -!- X [X@s-3-882E7506] has quit [Ping timeout: 180 seconds]
+13:58 < fxbg> [0xdeadbeef]: na
+13:58 -!- PaperSkin [5ce96536@34028E8E.AE88D910.68B2D6A3.IP] has quit [Quit: Suser was here :D]
+13:58 < fxbg> maybe idk id have to look, thats from 2006 i think
+13:59 < fxbg> its online, i found it not long ago
+13:59 < fxbg> ftp://hackbbs.org/milworm/106
+13:59 < [0xdeadbeef]> What was the original title?
+14:00 < [0xdeadbeef]> Thanks
+14:00 < fxbg> https://www.google.com/search?q=sunjester+rfi+lfi+milw0rm
+14:00 < fxbg> lame paper
+14:01 < fxbg> such an embarrassment

@@ -1,0 +1,3 @@
+cp ../.urllog .
+git add -A && git commit -m "logpush"
+git push -u origin master
