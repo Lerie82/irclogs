@@ -3,7 +3,7 @@
 22:09 -NickServ(services@services.hybrid.local)- nick, type /msg NickServ IDENTIFY password.  Otherwise,
 22:09 -NickServ(services@services.hybrid.local)- please choose a different nick.
 22:09 -!- Irssi: Starting query in 0x00sec with nickserv
-22:09 <fxbg> identify somepass
+22:09 <fxbg> identify #########
 22:09 -NickServ(services@services.hybrid.local)- Password accepted - you are now recognized.
 --- Log closed Sat Mar 03 22:15:15 2018
 --- Log opened Sat Mar 03 23:13:53 2018
@@ -11,21 +11,21 @@
 23:13 -NickServ(services@services.hybrid.local)- nick, type /msg NickServ IDENTIFY password.  Otherwise,
 23:13 -NickServ(services@services.hybrid.local)- please choose a different nick.
 23:14 -!- Irssi: Starting query in 0x00sec with nickserv
-23:14 <fxbg> identify somepass
+23:14 <fxbg> identify ##############
 23:14 -NickServ(services@services.hybrid.local)- Password accepted - you are now recognized.
 --- Log closed Sat Mar 03 23:19:52 2018
 --- Log opened Sun Mar 04 07:24:59 2018
 07:24 -NickServ(services@services.hybrid.local)- This nickname is registered and protected.  If it is your
 07:24 -NickServ(services@services.hybrid.local)- nick, type /msg NickServ IDENTIFY password.  Otherwise,
 07:24 -NickServ(services@services.hybrid.local)- please choose a different nick.
-07:25 <fxbg> identify somepass
+07:25 <fxbg> identify #####
 07:25 -NickServ(services@services.hybrid.local)- Password accepted - you are now recognized.
 --- Log closed Sun Mar 04 07:30:53 2018
 --- Log opened Sun Mar 04 09:25:43 2018
 09:25 -NickServ(services@services.hybrid.local)- This nickname is registered and protected.  If it is your
 09:25 -NickServ(services@services.hybrid.local)- nick, type /msg NickServ IDENTIFY password.  Otherwise,
 09:25 -NickServ(services@services.hybrid.local)- please choose a different nick.
-09:25 <fxbg> identify somepass
+09:25 <fxbg> identify #######
 09:25 -NickServ(services@services.hybrid.local)- Password accepted - you are now recognized.
 --- Log closed Sun Mar 04 09:30:51 2018
 --- Log opened Sun Mar 04 10:44:50 2018
